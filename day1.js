@@ -1,1 +1,2 @@
-console.log("sanchita is enogh")
+console.log("sanchita is enogh");
+
