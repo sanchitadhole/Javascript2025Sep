@@ -56,5 +56,3 @@ let q11 = animal.includes("at");
 console.log(q11)
 
 
-
-
