@@ -1,44 +1,44 @@
-// let person = {
-//     name :"sanchita",
-//     age:25,
-//     city:"Sangamner"
-// }
+let person = {
+    name :"sanchita",
+    age:25,
+    city:"Sangamner"
+}
 
-// // dot notation and bracket notation
+// dot notation and bracket notation
 
-// //retrive dot notation and bracket notation
-// console.log(person.name);
-// console.log(person['city']);
+//retrive dot notation and bracket notation
+console.log(person.name);
+console.log(person['city']);
 
-// // update dot notation and bracket notation
-// person.name = "sonali"
-// console.log(person);
-// person['age'] = 26
-// console.log(person);
+// update dot notation and bracket notation
+person.name = "sonali"
+console.log(person);
+person['age'] = 26
+console.log(person);
 
-// // add 
+// add 
 
-// person.language = "Marathi"
-// console.log(person)
+person.language = "Marathi"
+console.log(person)
 
-// person['language'] = "Sanskrit"
-// console.log(person)
+person['language'] = "Sanskrit"
+console.log(person)
 
-// //nested object
+//nested object
 
-// let info ={
-//     name:"sanchita dhole",
-//     address :{
-//         city:"pune",
-//         country :"INDIA"
-//     },
-//     skills:["python","javascript","playwrite"]
-// }
+let info ={
+    name:"sanchita dhole",
+    address :{
+        city:"pune",
+        country :"INDIA"
+    },
+    skills:["python","javascript","playwrite"]
+}
 
-// console.log(info.name);
-// console.log(info.address)
-// console.log(info.address.city);
-// console.log(info['address']['city'])
+console.log(info.name);
+console.log(info.address)
+console.log(info.address.city);
+console.log(info['address']['city'])
 
 
 

@@ -1,0 +1,16 @@
+h1 {
+  color: green;
+}
+p{
+    color: red;
+}
+ul
+{
+    color: yellow;
+}
+.yellow{
+    color: rebeccapurple;
+    background-color: yellow;
+    height: 20px;
+    width: 200px;
+}
